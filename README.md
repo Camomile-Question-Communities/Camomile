@@ -4,7 +4,7 @@ Question Community Content Management System.
 
 # Restrictions
 
-Unavalible for an Intranets.
+Unavalible for an Intranet.
 
 # Contacts
 
