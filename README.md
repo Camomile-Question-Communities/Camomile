@@ -1,6 +1,10 @@
 # Camomile
-Question Community Content Management System
 
+Question Community Content Management System.
+
+# Restrictions
+
+Unavalible for an Intranets.
 
 # Contacts
 
