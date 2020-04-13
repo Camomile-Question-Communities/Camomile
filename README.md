@@ -1,3 +1,4 @@
+![Camomile-Question-Communities](favicon.ico)
 # Camomile
 
 Question Community Content Management System.
