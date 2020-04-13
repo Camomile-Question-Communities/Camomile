@@ -1,0 +1,4 @@
+#Удалить:
+<Files ~ "docs">
+    Deny from all
+</Files>
